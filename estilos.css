@@ -1,0 +1,48 @@
+*{padding: 0px; margin: 0px;}
+
+nav{
+	font-size: 16px;
+}
+
+.jumbotron{
+	background: #428bca;
+	color: #fff;
+	padding: 20px 0;
+}
+
+.jumbotron .titulo{
+	font-size: 30px;
+}
+
+.titulopie{
+	font-size: 15px;
+	line-height: 40px;
+	margin-top: 20px;
+	color: #fff;
+}
+
+input[type="text"],input[type="date"]{
+	padding: 5px 10px;
+	width: 350px;
+}
+
+textarea{
+	padding: 100px;
+}
+
+#aut{
+	width: 350px;
+
+}
+
+.registrarf{
+	margin-left: 400px;
+}
+#eliminar{
+	margin-left: 400px;
+}
+
+footer{
+	background: #428bca;
+	margin-top: 15px;
+}
